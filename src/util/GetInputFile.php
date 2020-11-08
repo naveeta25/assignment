@@ -2,7 +2,8 @@
 <?php
     
     
-    require __DIR__ . '/Item.php';
+	
+	require_once('src/model/Item.php') ;
     /**
      * Fridge
      * Class that has a collection of Items with some logic around if those items are available

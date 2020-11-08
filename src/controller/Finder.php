@@ -1,8 +1,9 @@
 
 <?php 
 
-require __DIR__ . '/GetInputFile.php';
-require __DIR__ . '/Recipe.php';
+require_once('src/util/GetInputFile.php') ;
+require_once('src/model/Recipe.php') ;
+
 
     class Finder {
 
