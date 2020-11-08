@@ -12,8 +12,7 @@ By providing a CSV file with the items in your fridge and a list of recipes we c
 ## How to use it
 $ php recipe-finder find path/to/fridge.csv path/to/recipes.json
 
-## Help?
-$ php recipe-finder help 
+
 
 ## Assumptions (edge cases)
 - An item with no expiration it will never expires
