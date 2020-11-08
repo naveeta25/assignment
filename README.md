@@ -7,10 +7,10 @@ By providing a CSV file with the items in your fridge and a list of recipes we c
 ## Installation
 1. $ git clone git@github.com:naveeta25/assignment.git
 2. $ cd assignment
-3. Run the test $ vendor/bin/phpunit --bootstrap vendor/autoload.php tests/
+
 
 ## How to use it
-$ php recipe-finder find path/to/fridge.csv path/to/recipes.json
+find path/to/fridge.csv path/to/recipes.json
 
 
 
